@@ -1,0 +1,5 @@
+{
+  "name": "Cloud Diary",
+  "description": "A minimalist, aesthetic cloud diary application using Firebase.",
+  "requestFramePermissions": []
+}
